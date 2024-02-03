@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416859172469",
+    "project_id": "chatin-82c04",
+    "storage_bucket": "chatin-82c04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416859172469:android:110a474ed2ccc8978c923c",
+        "android_client_info": {
+          "package_name": "com.example.chating_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUkS-2Q7erDNPezEEnjzQmb_u4ags-cOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
